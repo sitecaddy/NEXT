@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping("/world")
     public String greeting() {
-        return "Hello World Branched";
+        return "Hello World Branch 2";
     }
 }
